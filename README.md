@@ -10,7 +10,7 @@
   <a href="https://gitlab.com/">GitLab(self-hosted)</a>
 </p>
 <h3 align="center">
-  <del>THANKS!!</del>
+  <del>SOCIAL!!</del>
 </h3>
 <p align="center">
   <a href="https://twitter.com/avivdeveloper">Twitter</a>
