@@ -19,6 +19,18 @@
 </p>
 
 
+<h3 align="center">
+  Team affiliation
+</h3>
+<p align="center">
+  <a href="https://example.com/">7th example(2023~)</a>
+</p>
+<p align="center">
+  <a href="https://example.com/">example.com(2021~)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/">Team Example(2022~)</a>
+</p>
 
 
 </div>
