@@ -1,13 +1,13 @@
 <h1 align="center">PRISMING</h1>
 
 <p align="center">
-  <a href="https://example.com/">Website</a>
+  <a href="#">Website(in development)</a>
   <span>|</span>
-  <a href="https://discord.gg/">Discord</a>
+  <a href="https://discord.gg/PEbesjUSSa">Discord</a>
   <span>|</span>
-  <a href="https://bento.me/">Bento</a>
+  <a href="https://bento.me/zusim">Bento</a>
   <span>|</span>
-  <a href="https://gitlab.com/">GitLab(self-hosted)</a>
+  <a href="https://gitlab.com/">GitLab(self-hosted)[closed]</a>
 </p>
 <h3 align="center">
   <del>SOCIAL!!</del>
@@ -20,16 +20,16 @@
 
 
 <h3 align="center">
-  Team affiliation
+  Recent projects
 </h3>
 <p align="center">
-  <a href="https://example.com/">7th example(2023~)</a>
+  <a href="https://samuel-sml.com/">samuel-sml(2024~)</a>
 </p>
 <p align="center">
-  <a href="https://example.com/">example.com(2021~)</a>
+  <a href="https://neko-brand.com/">neko-brand.com(2024~)</a>
 </p>
 <p align="center">
-  <a href="https://github.com/">Team Example(2022~)</a>
+  <a href="https://xn--5dbhb1a0a9ac.xn--6dbauaa3ap.xn--4dbrk0ce/">Israel Roblox Docs(2024~)</a>
 </p>
 
 
