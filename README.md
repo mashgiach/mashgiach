@@ -1,13 +1,13 @@
 <h1 align="center">PRISMING</h1>
 
 <p align="center">
-  <a href="#">Website(in development)</a>
+  <!-- <a href="#">Website(in development)</a> -->
   <span>|</span>
   <a href="https://discord.gg/PEbesjUSSa">Discord</a>
   <span>|</span>
-  <a href="https://bento.me/zusim">Bento</a>
+  <!-- <a href="https://bento.me/zusim">Bento</a> -->
   <span>|</span>
-  <a href="https://gitlab.com/">GitLab(self-hosted)[closed]</a>
+  <!-- <a href="https://gitlab.com/">GitLab(self-hosted)[closed]</a> -->
 </p>
 <h3 align="center">
   <del>SOCIAL!!</del>
