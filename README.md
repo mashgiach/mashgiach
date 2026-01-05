@@ -2,11 +2,11 @@
 
 <p align="center">
   <!-- <a href="#">Website(in development)</a> -->
-  <span>|</span>
+  <!-- <span>|</span> -->
   <a href="https://discord.gg/PEbesjUSSa">Discord</a>
-  <span>|</span>
+  <!-- <span>|</span> -->
   <!-- <a href="https://bento.me/zusim">Bento</a> -->
-  <span>|</span>
+  <!-- <span>|</span> -->
   <!-- <a href="https://gitlab.com/">GitLab(self-hosted)[closed]</a> -->
 </p>
 <h3 align="center">
